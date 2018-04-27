@@ -12,5 +12,5 @@ people’s love for dogs.</p>
 
 <p>This project was done in Jupyter Notebook.</p> 
 
-<a href="https://github.com/emimimura/DogRate/blob/master/dograte_analyze.ipynb"><b>View Analysis</b></a>
+<a href="https://github.com/emimimura/DogRate/blob/master/dograte_analyze.ipynb"><b>View Analysis</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/emimimura/DogRate/blob/master/dograte_wrangle.ipynb"><b>View Wrangling</b></a>
